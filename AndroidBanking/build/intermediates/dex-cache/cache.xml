@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/zhousongh/Desktop/TEAM_WILD-Version-0.3/AndroidBanking/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-e19f77ace2939301721902a817e48afa88488a6b.jar"
+        jar="/Users/zhousongh/Desktop/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/zhousongh/Desktop/TEAM_WILD-Version-0.3/AndroidBanking/app/build/intermediates/pre-dexed/debug/classes-272ac66bec936e94eeb977c1bdd7af89c63151df.jar"
+        jar="/Users/zhousongh/Desktop/TEAM_WILD-Version-0.3/AndroidBanking/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/zhousongh/Desktop/TEAM_WILD-Version-0.3/AndroidBanking/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-212ad963dc9cafb4faec068a9d630569c62665cf.jar"
+        jar="/Users/zhousongh/Desktop/TEAM_WILD-Version-0.3/AndroidBanking/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+
+</pre-dex-items>
